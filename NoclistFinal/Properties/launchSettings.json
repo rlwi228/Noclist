@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NoclistFinal": {
+      "commandName": "Project",
+      "commandLineArgs": "http://localhost:8888"
+    }
+  }
+}

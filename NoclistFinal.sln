@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Noclist", "NoclistFinal\Noclist.csproj", "{294FD393-D6D4-46CA-A6DE-64B740745AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{B06DBC16-B441-4556-888D-92984FE6F3AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{294FD393-D6D4-46CA-A6DE-64B740745AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{294FD393-D6D4-46CA-A6DE-64B740745AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{294FD393-D6D4-46CA-A6DE-64B740745AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{294FD393-D6D4-46CA-A6DE-64B740745AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B06DBC16-B441-4556-888D-92984FE6F3AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B06DBC16-B441-4556-888D-92984FE6F3AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B06DBC16-B441-4556-888D-92984FE6F3AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B06DBC16-B441-4556-888D-92984FE6F3AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D562F69-2D4F-4D7B-812E-7C0D1190A3EF}
+	EndGlobalSection
+EndGlobal
